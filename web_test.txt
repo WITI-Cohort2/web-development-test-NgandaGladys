@@ -1,0 +1,12 @@
+No.1(a)
+Elements specify the tag operation.
+(b)
+Attributes are used to identify the element that is to be styled by the CSS.
+(c)
+Selectors are used to specify the Attributes.
+(d)
+Semantic Elements are those that carry meaning for example the <footer> element
+(e)
+Web accessibility refers to creating of webpages that can easily be used by all categories of people, more so those with disabilities for example,Glaucoma.
+(f)
+A web server is a computer that stores files on the network and gives feedback to all computers on that network.
